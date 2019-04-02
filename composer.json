@@ -22,8 +22,7 @@
         "illuminate/container": "^5.0",
         "illuminate/support": "^5.0",
         "illuminate/cache": "^5.0",
-        "symfony/psr-http-message-bridge": "^1",
-        "zendframework/zend-diactoros": "^1.8.6"
+        "symfony/psr-http-message-bridge": "^1"
     },
     "autoload" : {
         "psr-4" : {
